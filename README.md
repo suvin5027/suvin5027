@@ -1,11 +1,12 @@
 ## Hi there 👋
 
+<img alt="Static Badge" src="https://img.shields.io/badge/spring-fff?style=flat&logo=spring&logoColor=green&logoSize=32">
+
+
 <!--
 **suvin5027/suvin5027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-<img alt="Static Badge" src="https://img.shields.io/badge/spring-fff?style=flat&logo=spring&logoColor=green&logoSize=32">
 
 
 

@@ -10,7 +10,7 @@
         <img
           src="https://render.gitanimals.org/farms/suvin5027"
           width="1000"
-          height="500"
+          height="300"
         />
     </a>
 </div>

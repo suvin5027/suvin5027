@@ -56,5 +56,5 @@
 <br>
 
 <div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suvin5027&theme=dark&show_icons=true)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=suvin5027&show_icons=true&theme=tokyonight)
 </div>

@@ -56,5 +56,5 @@
 <br>
 
 <div>
-  [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=project_final)](https://github.com/project_final/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 </div>

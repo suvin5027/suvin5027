@@ -5,13 +5,15 @@
     </a>
 </div>
 <br>
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=suvin5027&utm_content=farm">
-    <img
-      src="https://render.gitanimals.org/farms/suvin5027"
-      width="1000"
-      height="300"
-    />
-</a>
+<div align="center">
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=suvin5027&utm_content=farm">
+        <img
+          src="https://render.gitanimals.org/farms/suvin5027"
+          width="1000"
+          height="300"
+        />
+    </a>
+</div>
 
 <br>
 

@@ -1,4 +1,20 @@
 <h1 align="center">Hi there 👋</h1>
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvin5027&layout=Default&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=50% />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=suvin5027&layout=Default&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=50% />
+    </a>
+</div>
+<br>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=suvin5027&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/suvin5027"
+  width="1000"
+  height="300"
+/>
+</a>
 
 <br>
 
